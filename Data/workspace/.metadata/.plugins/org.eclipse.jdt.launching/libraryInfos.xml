@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="E:\EclipsePortable\App\eclipse\jre" version="1.8.0_144">
+<bootpath>
+<entry path="E:\EclipsePortable\App\eclipse\jre\lib\resources.jar"/>
+<entry path="E:\EclipsePortable\App\eclipse\jre\lib\rt.jar"/>
+<entry path="E:\EclipsePortable\App\eclipse\jre\lib\sunrsasign.jar"/>
+<entry path="E:\EclipsePortable\App\eclipse\jre\lib\jsse.jar"/>
+<entry path="E:\EclipsePortable\App\eclipse\jre\lib\jce.jar"/>
+<entry path="E:\EclipsePortable\App\eclipse\jre\lib\charsets.jar"/>
+<entry path="E:\EclipsePortable\App\eclipse\jre\lib\jfr.jar"/>
+<entry path="E:\EclipsePortable\App\eclipse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="E:\EclipsePortable\App\eclipse\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="E:\EclipsePortable\App\eclipse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="E:\EclipsePortable\App\eclipse" version="1.8.0_144">
+<bootpath>
+<entry path="E:\EclipsePortable\App\eclipse\jre\lib\resources.jar"/>
+<entry path="E:\EclipsePortable\App\eclipse\jre\lib\rt.jar"/>
+<entry path="E:\EclipsePortable\App\eclipse\jre\lib\sunrsasign.jar"/>
+<entry path="E:\EclipsePortable\App\eclipse\jre\lib\jsse.jar"/>
+<entry path="E:\EclipsePortable\App\eclipse\jre\lib\jce.jar"/>
+<entry path="E:\EclipsePortable\App\eclipse\jre\lib\charsets.jar"/>
+<entry path="E:\EclipsePortable\App\eclipse\jre\lib\jfr.jar"/>
+<entry path="E:\EclipsePortable\App\eclipse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="E:\EclipsePortable\App\eclipse\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="E:\EclipsePortable\App\eclipse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
