@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.jgit.http.apache"
+      label="%featureName"
+      version="4.9.0.201710071750-r"
+      provider-name="%providerName">
+
+   <description url="http://www.eclipse.org/jgit/">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <url>
+      <update label="%updateSiteName" url="http://download.eclipse.org/egit/updates"/>
+      <discovery label="%updateSiteName" url="http://download.eclipse.org/egit/updates"/>
+   </url>
+
+   <requires>
+      <import plugin="org.eclipse.jgit"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.jgit.http.apache"
+         download-size="21"
+         install-size="39"
+         version="4.9.0.201710071750-r"
+         unpack="false"/>
+
+   <plugin
+         id="org.apache.httpcomponents.httpcore"
+         download-size="310"
+         install-size="640"
+         version="4.3.3.v201411290715"
+         unpack="false"/>
+
+   <plugin
+         id="org.apache.httpcomponents.httpclient"
+         download-size="844"
+         install-size="1790"
+         version="4.3.6.v201511171540"
+         unpack="false"/>
+
+</feature>

@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+D:\OneDrive - csie.ntu.edu.tw\Downloads\EclipsePortable\App\eclipse\Data\workspace\.metadata\.plugins\org.eclipse.jdt.core

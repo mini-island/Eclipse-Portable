@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.jdt"
+      label="%featureName"
+      version="3.14.0.v20170913-2000"
+      provider-name="%providerName">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.eclipse.jdt"
+         download-size="44"
+         install-size="60"
+         version="3.14.0.v20170913-2000"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.ant.ui"
+         download-size="1083"
+         install-size="2553"
+         version="3.7.100.v20170907-0640"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.apt.core"
+         download-size="381"
+         install-size="823"
+         version="3.5.0.v20170411-0710"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.apt.ui"
+         download-size="70"
+         install-size="154"
+         version="3.5.0.v20170505-1107"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.apt.pluggable.core"
+         download-size="35"
+         install-size="68"
+         version="1.2.0.v20170322-1054"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.compiler.apt"
+         download-size="170"
+         install-size="385"
+         version="1.3.0.v20170502-0408"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.compiler.tool"
+         download-size="67"
+         install-size="137"
+         version="1.2.100.v20170821-0830"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.core"
+         download-size="6131"
+         install-size="14064"
+         version="3.14.0.v20170830-0152"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.annotation"
+         download-size="15"
+         install-size="21"
+         version="1.1.100.v20160418-1457"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.annotation"
+         download-size="25"
+         install-size="59"
+         version="2.1.100.v20170511-1408"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.core.manipulation"
+         download-size="278"
+         install-size="673"
+         version="1.9.100.v20170904-0953"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.debug.ui"
+         download-size="1639"
+         install-size="3265"
+         version="3.8.100.v20170910-1358"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.debug"
+         download-size="913"
+         install-size="1024"
+         version="3.11.100.v20170727-0910"/>
+
+   <plugin
+         id="org.eclipse.jdt.junit"
+         download-size="544"
+         install-size="1013"
+         version="3.11.0.v20170904-1801"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.junit.core"
+         download-size="165"
+         install-size="357"
+         version="3.10.0.v20170912-1641"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.junit.runtime"
+         download-size="54"
+         install-size="100"
+         version="3.4.700.v20170905-1431"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.junit4.runtime"
+         download-size="25"
+         install-size="45"
+         version="1.1.700.v20170905-1431"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.junit5.runtime"
+         download-size="20"
+         install-size="39"
+         version="1.0.0.v20170912-1641"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.launching"
+         download-size="336"
+         install-size="736"
+         version="3.9.0.v20170419-1235"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.ui"
+         download-size="11548"
+         install-size="25921"
+         version="3.13.100.v20170906-1910"
+         unpack="false"/>
+
+   <plugin
+         id="org.junit"
+         download-size="284"
+         install-size="335"
+         version="4.12.0.v201504281640"/>
+
+   <plugin
+         id="org.hamcrest.core"
+         download-size="53"
+         install-size="111"
+         version="1.3.0.v201303031735"
+         unpack="false"/>
+
+   <plugin
+         id="org.junit.jupiter.api"
+         download-size="95"
+         install-size="209"
+         version="5.0.0.v20170910-2246"
+         unpack="false"/>
+
+   <plugin
+         id="org.junit.jupiter.engine"
+         download-size="136"
+         install-size="334"
+         version="5.0.0.v20170910-2246"
+         unpack="false"/>
+
+   <plugin
+         id="org.junit.jupiter.migrationsupport"
+         download-size="42"
+         install-size="86"
+         version="5.0.0.v20170910-2246"
+         unpack="false"/>
+
+   <plugin
+         id="org.junit.jupiter.params"
+         download-size="480"
+         install-size="1150"
+         version="5.0.0.v20170910-2246"
+         unpack="false"/>
+
+   <plugin
+         id="org.junit.platform.commons"
+         download-size="78"
+         install-size="179"
+         version="1.0.0.v20170910-2246"
+         unpack="false"/>
+
+   <plugin
+         id="org.junit.platform.engine"
+         download-size="107"
+         install-size="224"
+         version="1.0.0.v20170910-2246"
+         unpack="false"/>
+
+   <plugin
+         id="org.junit.platform.launcher"
+         download-size="71"
+         install-size="163"
+         version="1.0.0.v20170910-2246"
+         unpack="false"/>
+
+   <plugin
+         id="org.junit.platform.runner"
+         download-size="32"
+         install-size="76"
+         version="1.0.0.v20170910-2246"
+         unpack="false"/>
+
+   <plugin
+         id="org.junit.platform.suite.api"
+         download-size="29"
+         install-size="55"
+         version="1.0.0.v20170910-2246"
+         unpack="false"/>
+
+   <plugin
+         id="org.junit.vintage.engine"
+         download-size="72"
+         install-size="164"
+         version="4.12.0.v20170910-2246"
+         unpack="false"/>
+
+   <plugin
+         id="org.opentest4j"
+         download-size="20"
+         install-size="35"
+         version="1.0.0.v20170910-2246"
+         unpack="false"/>
+         
+   <plugin
+         id="org.apiguardian"
+         download-size="15"
+         install-size="26"
+         version="1.0.0.v20170910-2246"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.doc.user"
+         download-size="8993"
+         install-size="11113"
+         version="3.14.0.v20170817-0656"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.launching.macosx"
+         os="macosx"
+         download-size="19"
+         install-size="29"
+         version="3.4.0.v20160923-0911"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jdt.launching.ui.macosx"
+         os="macosx"
+         download-size="58"
+         install-size="104"
+         version="1.2.0.v20160923-0911"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.ant.launching"
+         download-size="160"
+         install-size="272"
+         version="1.2.100.v20170907-0640"
+         unpack="false"/>
+
+</feature>
