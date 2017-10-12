@@ -29,10 +29,11 @@
 5. 打開你的 Eclipse。
 6. 由工具列：File -> Import -> Git -> Project from Git -> Clone URI
    - 如果沒有自動代入 Git 資訊，表示第 4 步驟未正確複製，請關閉對話框，複製完，再重做此步驟。
-7. 點選 Next -> (確認 master 有打勾) -> Next -> 輸入自訂的 Directory -> Finish
-   - Directory 可放在隨身碟裡，但速度較慢(小程式影響不大)，可以不用每次都重新 Clone。
-8. 在 Project Exploer 中的 HelloWorld 以右鍵點選 -> Run as -> Java application
-9. Console 中出現「Hello, World」字樣即完成。
+7. 點選 Next -> (確認 master 有打勾) -> Next -> 輸入自訂的 Directory -> Next
+   - Directory 可放在隨身碟裡，但速度較慢(小程式影響不大)，可以不用每次都重新 Clone。
+8. 會自動偵測到專案：Import existing Eclipse projects -> Next -> Finish
+9. 在 Project Exploer 中的 HelloWorld 以右鍵點選 -> Run as -> Java application
+10. Console 中出現「Hello, World」字樣即完成。
 
 ## Feedback
 任何問題請到 Issues 區提出，請詳述發生的情形。
