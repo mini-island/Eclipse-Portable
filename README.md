@@ -25,7 +25,7 @@
 2. 到 [Hello-Java](https://github.com/mini-island/Hello-Java) 專案。
 3. 於右上角，按下 Fork，選擇自己的帳號，複製整個專案到你的帳號下。
 4. 切換到你的 Hello-Java 專案下，點選「Clone or Download」複製文字框內的連結。
-   - 請確認你複製的連結是 .git 結尾的。
+> 請確認你複製的連結是 .git 結尾的。
 5. 打開你的 Eclipse。
 6. 由工具列：File -> Import -> Git -> Project from Git -> Clone URI
 > 如果沒有自動代入 Git 資訊，表示第 4 步驟未正確複製，請關閉對話框，複製完，再重做此步驟。
