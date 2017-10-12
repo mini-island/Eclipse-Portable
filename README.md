@@ -19,7 +19,7 @@
 4. Execute "EclipsePortable.exe" to go.
 
 ## Hello-Java
-建立你的第一個 Java 程式，並且熟悉 Github 的操作。
+### 建立你的第一個 Java 程式，並且熟悉 Github 的操作。
 
 1. 在瀏覽器登入你的 Github 帳號。
 2. 到 [Hello-Java](https://github.com/mini-island/Hello-Java) 專案。
@@ -34,6 +34,18 @@
 8. 會自動偵測到專案：Import existing Eclipse projects -> Next -> Finish
 9. 在 Project Exploer 中的 HelloWorld 以右鍵點選 -> Run as -> Java application
 10. Console 中出現「Hello, World」字樣即完成。
+
+### 第一次從 Eclipse 中 push 程式
+
+1. 在 Project Exploer 中，從 src 裡找到 HelloWorld.java，點選後在右方會出現程式碼。
+2. 試著稍微修改 "Hello, World" 的文字內容，例如："Hello Java World"。
+3. Ctrl-S 存檔。
+4. 在 Project Exploer 中的 HelloWorld 以右鍵點選 -> Team -> Commit...
+5. 在右下角的 Git Staging 頁籤中的 Commit message 區塊，輸入訊息，例如："Hello Java World"。
+> 一定要有 Commit message 才能 push。
+6. 點選 Commit and Push...
+7. 會跳出認證視窗，請輸入你的 GitHub 帳號及密碼。
+8. 回到瀏覽器，到你的 Hello-Java 專案下，找到 HelloWorld.java，確認文字內容如你所修改的，就完成此項。
 
 ## Feedback
 任何問題請到 Issues 區提出，請詳述發生的情形。
