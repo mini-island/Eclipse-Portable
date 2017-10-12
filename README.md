@@ -13,7 +13,7 @@
 - JDK 1.8.0 (Portable)
 
 ## Usage
-1. Download or Clone this project.
+1. [Download](https://github.com/mini-island/Eclipse-Portable/archive/master.zip) the archive of this project.
 2. Unzip the file after you download it.
 3. Copy the folder to your USB stick.
 4. Execute "EclipsePortable.exe" to go.
