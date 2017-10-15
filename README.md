@@ -12,7 +12,7 @@
 - Eclipse Java Development Tools
 - JDK 1.8.0 (Portable)
 
-## Usage
+## Usage ([Step by step](https://gitpitch.com/mini-island/mini-island.github.io?p=Eclipse-Portable-Steps))
 1. [Download](https://github.com/mini-island/Eclipse-Portable/archive/master.zip) the archive of this project.
 2. Unzip the file after you download it.
 3. Copy the folder to your USB stick.
