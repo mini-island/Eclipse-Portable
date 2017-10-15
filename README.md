@@ -18,7 +18,7 @@
 3. Copy the folder to your USB stick.
 4. Execute "EclipsePortable.exe" to go.
 
-## Hello-Java
+## Hello-Java (Optional) ([Step by step](https://gitpitch.com/mini-island/mini-island.github.io?p=Hello-Java-Steps))
 ### 建立你的第一個 Java 程式，並且熟悉 Github 的操作。
 
 1. 在瀏覽器登入你的 Github 帳號。
